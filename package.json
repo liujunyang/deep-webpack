@@ -1,7 +1,7 @@
 {
   "name": "ljy-webpack",
   "version": "1.0.0",
-  "description": "## 注意 `Object(someFn) === someFn  // true`",
+  "description": "research webpack",
   "main": "index.js",
   "bin": "./bin/index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/liujunyang/deep-webpack/issues"
   },
-  "homepage": "https://github.com/liujunyang/deep-webpack#readme"
+  "homepage": "https://github.com/liujunyang/deep-webpack#readme",
+  "dependencies": {
+    "yargs": "^10.0.3"
+  }
 }

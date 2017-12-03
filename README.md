@@ -16,6 +16,7 @@ npm link就能起到这个作用，会自动建立这个符号链接。
 而且会把该模块中 `bin` 字段中指定的命令变为全局可用的命令。
 如下面的package.json配置执行`npm link` 后：
 ```js
+"name": "ljy-webpack",
 "bin": {
   "web": "./bin/web.js",
   "bew": "./bin/bew.js"
@@ -33,6 +34,7 @@ npm link就能起到这个作用，会自动建立这个符号链接。
 
 假如 package.json 中的 bin 使用下面关于 bin 的介绍中的简写形式的话，执行 `npm link` 后：
 ```js
+"name": "ljy-webpack",
 "bin": "./bin/index.js",
 ```
 

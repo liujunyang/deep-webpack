@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log(985)
+const argv = require('yargs').argv;
+console.log(991, argv)
