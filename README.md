@@ -102,7 +102,7 @@ bin 默认是 json 对象，但是[也可以是字符串](https://docs.npmjs.com
 
 bin 指定的文件必须以 `#!/usr/bin/env node` 作为第一行。这样 shell 就知道默认使用 node 来执行该文件。
 
-
-
-
+### 关于 `__dirname`
+`__dirname` 指定的是执行的文件所在的目录。
+`process.cwd()` 指定的是输入命令时所处于的目录。
 
