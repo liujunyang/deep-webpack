@@ -6,3 +6,4 @@ examples/code-splitting/2.output.js
 examples/code-splitting/output.js
 examples/loader/output.js
 examples/simple/output.js
+examples/simple/output.js.output.js
