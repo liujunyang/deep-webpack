@@ -31,6 +31,5 @@ options.outputDirectory = path.dirname(options.output)
 // 解析出目标js文件名的格式,默认为 '.output.js'
 options.outputPostfix = '.' + path.basename(options.output);
 
-console.log(options)
-// webpack(options.input, options);
+webpack(options.input, options);
 

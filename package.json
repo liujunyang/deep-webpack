@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/liujunyang/deep-webpack#readme",
   "dependencies": {
+    "co": "^4.6.0",
     "yargs": "^10.0.3"
   }
 }
