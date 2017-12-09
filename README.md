@@ -1,5 +1,7 @@
 # deep-webpack
 
+从命令行接受入口文件名参数，利用 `esprima` 逐行分析依赖，并在过程中处理好文件的路径，打包过程中替换掉原来 require 的参数为 id ，最终打包成固定格式的一个 webpack 包。
+
 ## 注意
 `Object(someFn) === someFn  // true`
 
