@@ -1,1 +1,2 @@
-console.log(1)
+let a = require('./a')
+a()
