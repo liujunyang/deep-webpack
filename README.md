@@ -5,6 +5,7 @@
 ## 目录
 * [关于 `npm link` 命令](https://github.com/liujunyang/deep-webpack/issues/1)
 * [关于 package.json 中的 `bin` 字段](https://github.com/liujunyang/deep-webpack/issues/2)
+* [关于 `npm install`](https://github.com/liujunyang/deep-webpack/issues/3)
 * [webpack1打包优化](https://www.zybuluo.com/liujunyang/note/602306)
 
 ## 注意
