@@ -8,6 +8,9 @@
 * [关于 `npm install`](https://github.com/liujunyang/deep-webpack/issues/3)
 * [webpack1打包优化](https://www.zybuluo.com/liujunyang/note/602306)
 
+## 资料
+* [如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
+
 ## 注意
 
 ### Object()
